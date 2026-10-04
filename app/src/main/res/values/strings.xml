@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stream Player</string>
+
+    <!-- ControlsOverlay -->
+    <string name="controls_status_initializing">Инициализация…</string>
+    <string name="controls_status_loading">Загрузка…</string>
+    <string name="controls_status_playing">Воспроизведение</string>
+    <string name="controls_status_error">Ошибка: %1$s</string>
+    <string name="controls_restart">Перезапустить</string>
+    <string name="controls_settings">Настройки</string>
+
+    <!-- SettingsDialog -->
+    <string name="settings_title">Настройки потока</string>
+    <string name="settings_url_label">URL HLS-потока</string>
+    <string name="settings_save">Сохранить</string>
+    <string name="settings_cancel">Отмена</string>
+
+</resources>
